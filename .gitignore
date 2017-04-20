@@ -2,3 +2,5 @@
 /Pods
 /Twitter.xcworkspace/xcuserdata
 xcshareddata
+*.xcuserstate
+/Animations.xcodeproj/xcuserdata/wmohd.xcuserdatad/xcdebugger
