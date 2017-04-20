@@ -38,6 +38,9 @@ class ViewController: UIViewController {
         self.tray.center = CGPoint(x: tray.center.x, y: 65)
     }
 
+    @IBAction func drag(_ sender: UIPanGestureRecognizer) {
+    }
+    
     @IBAction func pan(_ sender: UIPanGestureRecognizer) {
         let pan = sender
         let translation = sender.translation(in: tray)
